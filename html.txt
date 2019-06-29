@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="an">
+ 
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<title> My Company </title> 
+</head> 
+
+<body>
+ 
+    <div id="navbar"> 
+    	<h1>My Company</h1>
+    	
+    		<ul>
+    			<li><a href="#">A Propos</a></li>
+    			<li><a href="#">Points de Vue</a></li>
+    			<li><a href="#">Points de vue</a></li> 
+    			<li><a href="#">Expertises Fonctionnelles</a></li>
+    		</ul>
+    </div>
+</body>
+</html>
